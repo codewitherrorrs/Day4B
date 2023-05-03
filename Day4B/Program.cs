@@ -6,8 +6,10 @@
         {
             /*DuplicateArrayItem duplicateArrayItem = new DuplicateArrayItem();
             duplicateArrayItem.DuplicateElement();*/
-            UniqueElement uniqueElement= new UniqueElement();
-            uniqueElement.PrintUniqueElement();
+            /*UniqueElement uniqueElement= new UniqueElement();
+            uniqueElement.PrintUniqueElement();*/
+            CountFrequencyOfElement countFrequencyOfElement = new CountFrequencyOfElement();
+            countFrequencyOfElement.FrequencyCount();
             Console.ReadKey();
         }
     }

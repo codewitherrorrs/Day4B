@@ -8,8 +8,10 @@
             duplicateArrayItem.DuplicateElement();*/
             /*UniqueElement uniqueElement= new UniqueElement();
             uniqueElement.PrintUniqueElement();*/
-            CountFrequencyOfElement countFrequencyOfElement = new CountFrequencyOfElement();
-            countFrequencyOfElement.FrequencyCount();
+            /*CountFrequencyOfElement countFrequencyOfElement = new CountFrequencyOfElement();
+            countFrequencyOfElement.FrequencyCount();*/
+            MinMax max = new MinMax();
+            max.MinMaxElement();
             Console.ReadKey();
         }
     }

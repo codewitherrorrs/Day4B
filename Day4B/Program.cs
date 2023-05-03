@@ -10,8 +10,10 @@
             uniqueElement.PrintUniqueElement();*/
             /*CountFrequencyOfElement countFrequencyOfElement = new CountFrequencyOfElement();
             countFrequencyOfElement.FrequencyCount();*/
-            MinMax max = new MinMax();
-            max.MinMaxElement();
+            /*MinMax max = new MinMax();
+            max.MinMaxElement();*/
+            StarPattern starPattern = new StarPattern();
+            starPattern.DecreasingStarPattern();
             Console.ReadKey();
         }
     }

@@ -14,8 +14,10 @@
             max.MinMaxElement();*/
             //StarPattern starPattern = new StarPattern();
             //starPattern.DecreasingStarPattern();
-            StarPatternOne starPatternOne = new StarPatternOne();
-            starPatternOne.HollowRectangle();
+            /* StarPatternOne starPatternOne = new StarPatternOne();
+             starPatternOne.HollowRectangle(); */
+            ReverseString reverse = new ReverseString();
+            reverse.Reverse();
             Console.ReadKey();
         }
     }

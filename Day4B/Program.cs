@@ -12,8 +12,10 @@
             countFrequencyOfElement.FrequencyCount();*/
             /*MinMax max = new MinMax();
             max.MinMaxElement();*/
-            StarPattern starPattern = new StarPattern();
-            starPattern.DecreasingStarPattern();
+            //StarPattern starPattern = new StarPattern();
+            //starPattern.DecreasingStarPattern();
+            StarPatternOne starPatternOne = new StarPatternOne();
+            starPatternOne.HollowRectangle();
             Console.ReadKey();
         }
     }

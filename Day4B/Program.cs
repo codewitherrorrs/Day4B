@@ -16,8 +16,10 @@
             //starPattern.DecreasingStarPattern();
             /* StarPatternOne starPatternOne = new StarPatternOne();
              starPatternOne.HollowRectangle(); */
-            ReverseString reverse = new ReverseString();
-            reverse.Reverse();
+            /*ReverseString reverse = new ReverseString();
+            reverse.Reverse();*/
+            SumOfAllDigit sumOfAllDigit = new SumOfAllDigit();
+            sumOfAllDigit.SumOfDigit();
             Console.ReadKey();
         }
     }
